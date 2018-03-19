@@ -1,0 +1,4 @@
+# KOMDAT-JARKOM-DRUPAL
+*A
+*B
+*C
