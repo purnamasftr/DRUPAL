@@ -16,28 +16,26 @@
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- Unix, Linux atau Windows.
-- Apache Web server 1.3+.
-- PHP 5.2+.
-- MySQL 5.0+.
-- RAM minimal 64 Mb+
+- Linux
+- Windows
+- Virtual box
 
 #### Proses Instalasi :
-1. Login kedalam server menggunakan SSH. Untuk pengguna windows bisa menggunakan aplikasi [PuTTY](http://www.putty.org/).
+1. Install SSH pada linux menggunakan terminal dengan cara berikut.
     ```
-    $ ssh adam@172.18.88.88 -p 22
+    $ sudo apt update
+    $ sudo apt install ssh
     ```
 
-2. Pastikan seluruh paket sistem kita *up-to-date*, dan install seluruh kebutuhan sisrem seperti `Apache`, `PHP`, dan `MySQL`.
+2. Setelah terinstal SSH, kita bisa mengakses VM secara remote. Install semua kebutuhan sistem.
     ```
-    $ sudo apt-get update
     $ sudo apt-get install apache2
     $ sudo apt-get install mysql-server
     $ sudo apt-get install php
     $ sudo apt-get install libapache2-mod-php
     $ sudo apt-get install php-mysql
-    $ sudo apt-get install php-gd php-mcrypt php-mbstring php-xml php-ssh2 php-curl php-zip php-intl
-    $ sudo apt-get install unzip
+    $ sudo apt install php-gd php-mcrypt php-mbstring php-xml php-ssh2
+    $ sudo service apache2 restart
     ```
 
 3. Unduh **Prestashop** ke dalam direktori kita. 
