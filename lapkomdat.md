@@ -130,44 +130,38 @@ Cara kedua adalah dengan menggunakan layanan yang tersedia pada *web-hosting pro
 Cara pemakaian **CMS Drupal** dapat dilihat dengan mengikuti langkah berikut:
 1. Extract/copy file/folder CMS Drupal ke C:\xampp\htdocs\
 
-    ![login](https://4.bp.blogspot.com/-rmIdzrb4t4E/WOGbktO4p8I/AAAAAAAAGlc/z1NraShhrpUt-4Z0MVfXofZ5IV9hR_XbwCLcB/s1600/presta1.png)
-
 2. Buka web browser dan masukan alamat/path folder drupal pada address bar localhost misal http://localhost/drupal7
-
-    ![mainpage](https://3.bp.blogspot.com/-AjB_6mJZCxc/WOGbk3XPniI/AAAAAAAAGlg/NGZ_vOSF1s4jvw9Yx9jh7odGt8B4qHSuwCLcB/s1600/presta2.png)
 
 3. Maka nanti Anda akan dihadapkan pada jendela instalasi CMS Drupal seperti berikut
 
-    ![order](https://1.bp.blogspot.com/-0-MhQjYMGvQ/WOGbkmpYSXI/AAAAAAAAGlY/JSwla_Py4ckrxc839Im9JKtyJjsmye_hQCLcB/s1600/presta3.png)
+    ![instalasi](https://1.bp.blogspot.com/-4A_-Vi6XAb4/Vlk4t1x54LI/AAAAAAAACQE/TSddSAJ91wc/s1600/drupal01.PNG)
 
 4. Pilih Standard. Klik Save and Continue
 
-    ![catalog](https://4.bp.blogspot.com/-PQTBdZzcMBY/WOGblDw9tYI/AAAAAAAAGlk/GDC7cEzfWmo9LZ8bqcqwnv7iilAYlXNhwCLcB/s1600/presta4.png)
-
 5. Pada jendela Choose language. Klik Save And continue 
 
-    ![customer](https://2.bp.blogspot.com/-Mtss0c3rblo/WOGblcDU_bI/AAAAAAAAGlo/u1Hv6LWzwtAEuk9_NPQHnedI6PnotkEMwCLcB/s1600/presta5.png)
+    ![language](https://4.bp.blogspot.com/-YL5rINMIRNQ/Vlk4tt1RJ5I/AAAAAAAACQQ/dna0getcGBE/s1600/drupal02.PNG)
 
-6. Kemudian atur pada jendela “verify requirements” konfigurasi akses ke atabasenya. Misal nama databasenya adalah “drupal”. Untuk dtabase sernamenya secara default adalah “root” dan Database password dikosongkan saja
+6. Kemudian atur pada jendela “verify requirements” konfigurasi akses ke atabasenya. Misal nama databasenya adalah “drupal”. Untuk database sernamenya secara default adalah “root” dan Database password dikosongkan saja
 
-    ![cs](https://3.bp.blogspot.com/-ZlT_WQ0bpyk/WOGblYW-yPI/AAAAAAAAGls/gcZb8k36rEUn8dDFnGXl35R_Uhy_lNMeACLcB/s1600/presta6.png)
+    ![verify](https://2.bp.blogspot.com/-ut22AJwnxF4/Vlk4tq62ypI/AAAAAAAACQo/HjHTElPNhBk/s1600/drupal03.PNG)
 
 7. Bila sudah selesai. Klik Save and Continue 
 
-    ![stat](https://3.bp.blogspot.com/-kvZ9MMH6Fxc/WOGblsk5jpI/AAAAAAAAGlw/p8LhO5LIvMU4WnDEF5NKg7--tKy8mWa-wCLcB/s1600/presta7.png)
-
 8. Selanjutnya tunggu sampai proses instalasi drupal selesai 
 
-    ![improve](https://3.bp.blogspot.com/-d_DufFiAblk/WOGbls1KYxI/AAAAAAAAGl0/AsyvLt1zp1IP1BG1PbDaG91PJKV-xDkhACLcB/s1600/presta8.png)
+    ![install](https://4.bp.blogspot.com/--TsCmmsS1nM/Vlk4uUIrMCI/AAAAAAAACQs/QI8dzswVyw4/s1600/drupal04.PNG)
 
 9. Pada bagian jendela “configure site” Anda mengisi kolom site name dengan nma situs Anda. Silahkan juga atur bagian site maintenance accountnya dengan mengisi username dan password sesuai keinginan Anda. Jangan upa juga sting zona waktunya. Bila sudah selesai Klik Save and continue 
 
-    ![configure](https://4.bp.blogspot.com/-58ke7QyDUwQ/WOGbmCZvHFI/AAAAAAAAGl4/LuQRv6uYmywWjbzmJy82UwNu5qCg8fp1gCLcB/s1600/presta9.png)
+    ![configure](https://2.bp.blogspot.com/-GDQuJPoi2io/Vlk4uX4qqxI/AAAAAAAACQk/PxJht1RXYhk/s1600/drupal05.PNG)
     
 10. Proses instalasi selesai. Klik "Visit your new site site" untuk melihat tampilan dari website yang telah Anda buat
 
-
-11. Sekarang Website sudah jadi dan Anda bisa langsung mengkonfigurasi website, menambah artikel, mengatur menu atau bahkan membuat sebuah forum dengan cara yang sangat mudah dan menyenangkan
+    ![visit](https://2.bp.blogspot.com/-WoUdhMrbZkw/Vlk4u8MfxwI/AAAAAAAACQ0/32ChhAKTT4s/s1600/drupal07.PNG)
+    
+11. Website telah selesai.
+    ![done](https://1.bp.blogspot.com/-9O2hBWTto7I/Vlk4vMvikgI/AAAAAAAACQ4/455koz9903I/s1600/drupal08.PNG)
 
 
 
