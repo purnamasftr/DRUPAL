@@ -38,98 +38,31 @@
     $ sudo service apache2 restart
     ```
 
-3. Unduh **Prestashop** ke dalam direktori kita. 
-    ```
-    $ wget https://download.prestashop.com/download/releases/prestashop_1.7.0.5.zip
-    ```
+3. Cek instalasi apache. Buka laman http://localhost:8888
 
-4. Ekstrak file yang telah diunduh ke dalam direktori yang kita inginkan.
-    ```
-    $ sudo unzip prestashop_1.7.0.5.zip -d /var/www/html/prestashop
-    ```
-
-5. Ubah otorisasi kepemilikan ke user www-data (webserver)
-    ```
-    $ sudo chown -R www-data:www-data /var/www/html/prestashop
-    ```
-
-6. Buat database dan user untuk **Prestashop**.
+4. Instalasi aplikasi web Drupal. Buat database dan user untuk Drupal.
     ```
     $ mysql -u root -p -v -e "
-        CREATE DATABASE prestashop;
-        CREATE USER 'prestashopuser'@'localhost' IDENTIFIED BY 'prestashoppassword';
-        GRANT ALL PRIVILEGES ON `prestashop`.* TO 'prestashopuser'@'localhost';
-        FLUSH PRIVILEGES;"
+       > CREATE DATABASE drupal;
+       > CREATE USER drupal IDENTIFIED BY 'hehe';
+       > GRANT ALL PRIVILEGES ON drupal.* TO drupal;"
     ```
 
-7. Konfigurasi Apache web server.
+5. Download Drupal ke direktori kita.
     ```
-    $ sudo a2enmod rewrite
-    $ sudo touch /etc/apache2/sites-available/prestashop.conf
-    $ sudo ln -s /etc/apache2/sites-available/prestashop.conf /etc/apache2/sites-enabled/prestashop.conf
-    $ sudo nano /etc/apache2/sites-available/prestashop.conf
-
-    <VirtualHost *:80>
-    ServerAdmin admin@your-domain.com
-    DocumentRoot /var/www/html/prestashop/
-    ServerName your-domain.com
-    ServerAlias www.your-domain.com
-    <Directory /var/www/html/prestashop/>
-    Options FollowSymLinks
-    AllowOverride All
-    Order allow,deny
-    allow from all
-    </Directory>
-    ErrorLog /var/log/apache2/your-domain.com-error_log
-    CustomLog /var/log/apache2/your-domain.com-access_log common
-    </VirtualHost>
+    $ wget "https://ftp.drupal.org/files/projects/drupal-8.5.0.tar.gz"
     ```
 
-8. Edit file `etc/php/7.0/apache2/php.ini` dan tambahkan baris berikut :
+6. Ekstrak ke direktori web
     ```
-    memory_limit = 128M
-    upload_max_filesize = 16M
-    max_execution_time = 60
-    file_uploads = On
-    allow_url_fopen = On
-    magic_quotes_gpc = Off
-    register_globals = Off
+    $ sudo tar -xzf drupal-8.5.0.tar.gz -C /var/www/html
     ```
 
-9. Restart kembali Apache web server.
+7. Ubah kepemilikan ke user www-data (webserver)
     ```
-    $ sudo service apache2 restart
-    ```
+    $ sudo chown -R www-data:www-data /var/www/html/drupal-8.5.0
 
-10. Kunjungi alamat IP web server kita untuk meneruskan instalasi.
-    - Pilih Bahasa yang akan digunakan
-
-      ![1](https://4.bp.blogspot.com/-4Bd2ScecDIs/WNfZ0H8j3UI/AAAAAAAAGjE/9f7Knlqzgw0a0Lgd2AVQ7Qt53bI-Of8bACLcB/s1600/36.PNG)
-
-    - Setujui persyaratan yang berlaku
-
-      ![2](https://4.bp.blogspot.com/-mglU1XDt-T0/WNfZ0OJ7n8I/AAAAAAAAGjI/bG23YpPUkyEOCiozy1_Qc4TnA29bJw0lACLcB/s1600/37.PNG)
-
-    - Cek kecocokan sistem
-
-      ![3](https://3.bp.blogspot.com/-ewzlTX1qtmw/WNfZ0HTeFuI/AAAAAAAAGjM/edNiBt1f24Qt4x4sWCoCHfyo7JXWWmoZwCLcB/s1600/38.PNG)
-
-    - Isi informasi tentang toko yang kita buat
-
-      ![4](https://2.bp.blogspot.com/-Q5cCz5hyubQ/WNfZ1FZod9I/AAAAAAAAGjU/H_uUfxtZLUE11VPDafwK8jR3-aealPKcgCLcB/s1600/39.png)
-
-    - Konfigurasi database
-
-      ![5](https://1.bp.blogspot.com/-rh08nNV2Leg/WNfZ1DAaDOI/AAAAAAAAGjY/R5oIKIMI4rYjg7gO71MgR26JSMahxtpxgCLcB/s1600/40.PNG)
-
-    - Lanjutkan proses instalasi
-
-      ![6](https://3.bp.blogspot.com/-t2MrsQBYXBU/WNfZ0x4YoWI/AAAAAAAAGjQ/zOqZVNSFIpQkQjY0awofbetdEowQLdGAwCLcB/s1600/41.PNG)
-
-11. Setelah proses instalasi selesai hapus direktori install untuk alasan keamanan.
-    ```
-    $ sudo rm -rf /var/www/html/prestashop/install
-    ```
+8. Buka laman http://localhost:8888/drupal-8.5.0 untuk meneruskan instalasi.
 
 
 
