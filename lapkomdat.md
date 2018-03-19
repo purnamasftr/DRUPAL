@@ -81,7 +81,9 @@
 
 - Untuk memperindah aplikasi, kita dapat mengganti tema aplikasi pada menu `Design`.
 
-    ![design](https://4.bp.blogspot.com/-HSXimyvqUVc/WNfs9sGUKnI/AAAAAAAAGj0/l3ZyZX2biuUa05VhnVdwrdFcCxxpGWv0gCLcB/s1600/Screenshot_3.jpg)
+    ![design](https://cdn-images-1.medium.com/max/800/1*QBKmVlDbndLBfNAxJyeYgA.jpeg)
+    ![coba](https://cdn-images-1.medium.com/max/880/1*57LPoD2qKTtH4jjjgO72Lw.jpeg)
+    ![coba](https://cdn-images-1.medium.com/max/880/1*TKKkEuw1Clbx9-I31zTifQ.jpeg)
 
 
 
