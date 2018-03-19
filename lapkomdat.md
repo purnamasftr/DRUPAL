@@ -71,13 +71,13 @@
 
 - Untuk menentukan konfigurasi umum, kuota upload, dan pemberitahuan, kita dapat membuka submenu **Administration** pada menu **Advanced Parameters** dan mengisi field sesuai kebutuhan. 
     
-    ![adv](https://cdn-images-1.medium.com/max/400/1*57LPoD2qKTtH4jjjgO72Lw.jpeg)
+    ![adv](https://cdn-images-1.medium.com/max/1000/1*WIsfQ6UmXieMQYB9yEim5g.jpeg)
 
-    ![setting](https://1.bp.blogspot.com/-pPGnvOtpH6k/WNgF-bV6TcI/AAAAAAAAGkQ/i4X-qAe2ohcLT18UDAaA5tYDZGrri0nvQCLcB/s1600/ss.png)
+    ![setting](https://cdn-images-1.medium.com/max/800/1*l-Y6N52rhrTM_V-hR1AE9A.jpeg)
 
 - Untuk melengkapi aplikasi, kita dapat menambahkan fitur atau modul-modul tertentu pada menu `Modules`.
 
-    ![modul](https://4.bp.blogspot.com/-6dRdIL2WQGw/WNfs8Ul0KnI/AAAAAAAAGjw/_TmOk2h3mIgRc7Z0Uw1kYLx7bIDaZ-Z4wCLcB/s1600/Screenshot_2.jpg)
+    ![modul](https://cdn-images-1.medium.com/max/800/1*ifdwJlSaIIfYU7hGnKcWMQ.jpeg)
 
 - Untuk memperindah aplikasi, kita dapat mengganti tema aplikasi pada menu `Design`.
 
