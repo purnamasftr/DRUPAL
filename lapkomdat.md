@@ -71,9 +71,9 @@
 
 - Untuk menentukan konfigurasi umum, kuota upload, dan pemberitahuan, kita dapat membuka submenu **Administration** pada menu **Advanced Parameters** dan mengisi field sesuai kebutuhan. 
     
-    ![adv](https://cdn-images-1.medium.com/max/1000/1*WIsfQ6UmXieMQYB9yEim5g.jpeg)
+    ![choose language](https://cdn-images-1.medium.com/max/1000/1*WIsfQ6UmXieMQYB9yEim5g.jpeg)
 
-    ![setting](https://cdn-images-1.medium.com/max/800/1*l-Y6N52rhrTM_V-hR1AE9A.jpeg)
+    ![choose profile](https://cdn-images-1.medium.com/max/800/1*l-Y6N52rhrTM_V-hR1AE9A.jpeg)
 
 - Untuk melengkapi aplikasi, kita dapat menambahkan fitur atau modul-modul tertentu pada menu `Modules`.
 
