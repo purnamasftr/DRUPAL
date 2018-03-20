@@ -138,7 +138,7 @@ Langkah yang dilakukan adalah :
 # Otomatisasi
 [`^ kembali ke atas ^`](#)
 
-Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Drupal**. Berikut langkah-lankah untuk melakukannya :
+Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Drupal**. Berikut langkah-langkah untuk melakukannya :
 1. Kunjungi *web-hosting provider* yang menyediakan *script* instalasi **Drupal** otomatis, seperti:
     - [SimpleScripts](https://www.simplescripts.com/script_details/install:Drupal)
     ![24](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/24.PNG)
@@ -151,7 +151,7 @@ Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggun
 
 3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install**.
 
-    ![27](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/27.PNG)
+![27](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/27.png)
 
 4. Tunggu hingga proses instalasi selesai.
 
