@@ -1,7 +1,6 @@
 <h1 align="center"><img src="https://www.seeklogo.net/wp-content/uploads/2011/05/drupal-logo-vector.png"></h1>
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
-:---:|:---:|:---:|:---:|:---:|:---:
 
 
 # Sekilas Tentang
@@ -59,31 +58,34 @@
     $ sudo tar -xzf drupal-8.5.0.tar.gz -C /var/www/html
     ```
 
-7. Ubah kepemilikan ke user www-data (webserver)
+7. Ubah kepemilikan ke user www-data (*webserver*)
     ```
     $ sudo chown -R www-data:www-data /var/www/html/drupal-8.5.0
 
 8. Buka laman http://localhost:8888/drupal-8.5.0 untuk meneruskan instalasi.
-   - Pilih Bahasa yang akan digunakan
+
+   - Pilih Bahasa yang akan digunakan.
    
      ![1](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album1.jpg)
    
-   - Pilih jenis *profile* yang ingin digunakan
+   - Pilih jenis *profile* yang ingin digunakan.
 
       ![2](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album2.jpg)
       
-   - Lihat *requirements review* yang ditampilkan
+   - Lihat *requirements review* yang ditampilkan.
 
       ![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album3.jpg)
       
-   - Atur konfigurasi database yang akan dipakai saat menggunakan Drupal
+   - Atur konfigurasi database yang akan dipakai saat menggunakan Drupal.
 
       ![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album4.jpg)
       
-   - Lanjutkan proses instalasi
+   - Lanjutkan proses instalasi.
+   
       ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album5.jpg)
       
    - Lalu kita atur nama Website beserta email yang akan digunakan pada website tersebut. Disini kita juga membuat akun *Administrator* yang akan kita gunakan untuk login pertama kali. Jika sudah pilih **Save and continue**.
+   
     ![6](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/6.png)
 
 
@@ -119,7 +121,7 @@ Pada halaman Drupal terdapat **Administrative Menu**, di menu tersebut kita dapa
 # Maintenance
 [`^ kembali ke atas ^`](#)
 
-Di Drupal, kita dapat mengubah website nya menjadi **Maintenance Mode**. Fitur **Maintenance Mode** digunakan ketika kita ingin memperbolehkan user yang memiliki izin, untuk menggunakan website kita. Sementara user yang tidak diberi izin, akan ditampilkan pesan bahwa situs sedang dalam mode *Maintenance*.
+Di Drupal, kita dapat mengubah *website* nya menjadi **Maintenance Mode**. Fitur **Maintenance Mode** digunakan ketika kita ingin memperbolehkan user yang memiliki izin, untuk menggunakan website kita. Sementara user yang tidak diberi izin, akan ditampilkan pesan bahwa situs sedang dalam mode *Maintenance*.
 
 Langkah yang dilakukan adalah :
 
@@ -171,27 +173,39 @@ Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di dat
    ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
    
 2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi : 
+
     - **Add the Administrator role to the selected user(s)** : Kita dapat menambahkan peran sebagai Administrator untuk user yang               dipilih
     - **Block the selected user(s)** : Blokir user yang dipilih
     - **Cancel the selected user account(s)** : Membatalkan akun user yang dipilih
     - **Remove the Administrator role to the selected user(s)** : Menghapus peran Administrator dari user yg dipilih
     - **Unblock the selected user(s)** : Batalkan blokir user yang dipilih
+    
     ![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/13.png)
+    
 3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
+
 ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
+
 4. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
+
 ![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/12.PNG)
+
 5. Akun tersebut pun terhapus dari database kita.
+
 ![20](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/28d6aae8b3add278c0368ae5366aa4fdcb4f9c02/20.PNG)
+
 6. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
+
 ![16](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/16.png)
 
 #### Melihat Report
 Di menu **Reports**, kita dapat melihat laporan-laporan terkait operasional *website* kita
+
  ![14](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/14.png)
 
 #### Help
 Berisi langkah-langkah penggunaan Drupal beserta *overview* modul-modul yang terdapat dalam Drupal
+
 ![15](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/15.png)
 
 # Pembahasan
@@ -202,9 +216,9 @@ Drupal merupakan website CMS (Content Management Software) yang sering dipakai u
 Sebagai CMS yang cukup populer digunakan, tentu memiliki kelebihan. Beberapa kelebihan CMS Drupal yaitu:
 - Mempunyai banyak fungsi, seperti *advanced menu management, polls management, graphics modification tool, users management*, dll.
 - Mendukung banyak tipe konten, seperti *videos, polls, user management, text, blogs, podcasts, statistics*, dll.
-- Advanced User Management: administrator dapat membuat akun user dan menentukan *permission rights*.
-- Graphics management: Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
-- Page content management: Dapat mengkategorikan konten dengan alamat URL, paths, dan membuat list.
+- *Advanced User Management* : administrator dapat membuat akun user dan menentukan *permission rights*.
+- *Graphics management*: Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
+- Page content management : Dapat mengkategorikan konten dengan alamat URL, paths, dan membuat list.
 - Tersedia banyak plugins, dan dapat membuat plugins sendiri.
 - Tersedia *documentation, boards*, dan *chat* yang dapat membantu user mencari informasi seputar manajemen dan konfigurasi script.
 
