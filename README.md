@@ -68,24 +68,30 @@
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-- Untuk menentukan konfigurasi umum, kuota upload, dan pemberitahuan, kita dapat membuka submenu **Administration** pada menu **Advanced Parameters** dan mengisi field sesuai kebutuhan. 
+![adm menu](https://cdn-images-1.medium.com/max/880/1*aQY10wBwqRk-z8fD7Mx0Yg.png)
+Pada halaman drupal terdapat **Administrative Menu**, di menu tersebut kita dapat melakukan konfigurasi umum seperti : 
+
+- Meng edit informasi dasar situs pada menu `Configuration`.
+
+    ![edit](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/10.png)
+
+- Meng install atau uninstall sebuah module pada menu `Extends`.
+
+    ![modul](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/9.PNG)
     
-    ![choose language](https://cdn-images-1.medium.com/max/1000/1*WIsfQ6UmXieMQYB9yEim5g.jpeg)
+    Pada menu **Extends**, ditampilkan semua module yang tersedia di situs tersebut. Install module dilakukan dengan cara mengisi *check box* terhadap module yang ingin di install. Sama halnya dengan meng-uninstall module.
 
-    ![choose profile](https://cdn-images-1.medium.com/max/800/1*l-Y6N52rhrTM_V-hR1AE9A.jpeg)
+- Mengkonfigurasi pengaturan akun User pada menu `Configuration`.
+    
+    Dilakukan dengan cari pilih menu **Configuration** di *Administrative Menu*, lalu pilih **People** - **Account Setting**.
 
-- Untuk melengkapi aplikasi, kita dapat menambahkan fitur atau modul-modul tertentu pada menu `Modules`.
+    ![setting](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/21.png)
 
-    ![modul](https://cdn-images-1.medium.com/max/800/1*ifdwJlSaIIfYU7hGnKcWMQ.jpeg)
-
-- Untuk memperindah aplikasi, kita dapat mengganti tema aplikasi pada menu `Design`.
-
-    ![design](https://cdn-images-1.medium.com/max/800/1*QBKmVlDbndLBfNAxJyeYgA.jpeg)
-    ![coba](https://cdn-images-1.medium.com/max/880/1*57LPoD2qKTtH4jjjgO72Lw.jpeg)
-    ![coba](https://cdn-images-1.medium.com/max/880/1*TKKkEuw1Clbx9-I31zTifQ.jpeg)
-
-
-
+- Mengubah tampilan pada menu `Appearance`.
+    
+    ![theme](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/8.png)
+    
+    
 # Maintenance
 [`^ kembali ke atas ^`](#)
 
