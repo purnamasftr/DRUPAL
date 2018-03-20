@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://www.seeklogo.net/wp-content/uploads/2011/05/drupal-logo-vector.png"></h1>
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Maintenance](#maintenance) | [Otomatisasi](#otomatisasi) |  [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 
 
 # Sekilas Tentang
@@ -139,14 +139,19 @@ Langkah yang dilakukan adalah :
 [`^ kembali ke atas ^`](#)
 
 Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Drupal**. Berikut langkah-lankah untuk melakukannya :
-1. kita perlu mengunjungi *web-hosting provider* yang menyediakan *script* instalasi **Drupal** otomatis, seperti [SimpleScripts](https://www.simplescripts.com/script_details/install:Drupal), [Installatron](https://installatron.com/drupal), atau [Softaculous](http://www.softaculous.com/apps/cms/Drupal).
+1. Kunjungi *web-hosting provider* yang menyediakan *script* instalasi **Drupal** otomatis, seperti:
+    - [SimpleScripts](https://www.simplescripts.com/script_details/install:Drupal)
+    ![24](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/24.PNG)
+    - [Installatron](https://installatron.com/drupal)
+    ![25](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/25.PNG)
+    - [Softaculous](http://www.softaculous.com/apps/cms/Drupal).
+    ![26](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/26.PNG)
 2. Sebagai contoh, kita akan menggunakan layanan dari [Installatron](https://installatron.com/drupal). Kunjungi link tersebut lalu klik tombol **Install this Application**.
-
-    ![Installatron](https://4.bp.blogspot.com/-PGjmovGOoOc/WNgQDHbE1RI/AAAAAAAAGk0/90dTTmH15cY6WSWqr8UU8BPETQs4KyxnACLcB/s1600/Screenshot_8.jpg)
+![25](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/25.PNG)
 
 3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install**.
 
-    ![form](https://4.bp.blogspot.com/-5UwbsHAaBe0/WNgQDDjFdhI/AAAAAAAAGk4/coOLiqqP2DcVxq-hHwFa9cVW3P_t6p1tQCLcB/s1600/ss2.png)
+    ![27](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/27.PNG)
 
 4. Tunggu hingga proses instalasi selesai.
 
