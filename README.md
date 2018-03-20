@@ -138,13 +138,13 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 [`^ kembali ke atas ^`](#)
 
 Pertama-tama kita memasuki laman dengan login dengan akun **Administrator** yang sebelumnya kita buat di laman konfigurasi saat instalasi Drupal pertama kali. Jika ingin Create User, akun baru harus diverifikasi oleh Administrator dan terdaftar sebagai pengguna **Authenticated User**
-![18](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/18.png)
+![18](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/7df08079c1cb959810f8c1eedf2118f38b0da247/18.PNG)
 
 Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 
 #### Menambahkan Konten
 1. Setelah login, kita dapat menambahkan konten yang nantinya akan muncul di laman utama Drupal. Fitur ini bernama **Add content** dan  terletak di kotak **Tools** di pojok kiri bawah.
-![19](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/19.png)
+![19](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/7df08079c1cb959810f8c1eedf2118f38b0da247/19.PNG)
 2. Kita akan dialihkan ke menu utama Content. Disini kita dapat memilih tombol **Add content** untuk menambahkan konten.
 ![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/3.png)
 3. Kita akan diminta untuk memilih jenis konten yang akan kita buat.
@@ -158,7 +158,7 @@ Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 
 Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di database akun Drupal kita. 
 1. Terdapat tombol **Add user** untuk menambahkan user secara manual. Kita juga dapat mencari user berdasarkan username dan email.
-![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/13.png)
+   ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
 2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi: 
     - **Add the Administrator role to the selected user(s)** : Kita dapat menambahkan peran sebagai Administrator untuk user yang               dipilih
     - **Block the selected user(s)** : Blokir user yang dipilih
