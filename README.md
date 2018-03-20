@@ -76,7 +76,7 @@ Pada halaman drupal terdapat **Administrative Menu**, di menu tersebut kita dapa
 
     ![edit](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/10.png)
 
-- Meng install atau uninstall sebuah module pada menu `Extends`.
+- Meng *install* atau *uninstall* sebuah module pada menu `Extends`.
 
     Pada menu **Extends**, ditampilkan semua module yang tersedia di situs tersebut. Install module dilakukan dengan cara mengisi *check box* terhadap module yang ingin di install. Sama halnya dengan meng-uninstall module.
     
