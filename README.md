@@ -84,6 +84,9 @@
 
    - Lanjutkan proses instalasi
       ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album5.jpg)
+      
+   - Lalu kita atur nama Website beserta email yang akan digunakan website tersebut. Disini kita juga membuat akun Administrator yang       akan kita gunakan untuk login pertama kali. Jika sudah pilih **Save and continue**.
+    ![6](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/6.png)
 
 
 
