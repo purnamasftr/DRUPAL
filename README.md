@@ -132,12 +132,12 @@ Namun, tetap saja aplikasi ini memiliki beberapa kekurangan, yaitu:
 - Masalah kompatibilitas dengan sistem lama
 - Masalah efisiensi pada website besar (big server load).
 
-Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
-- **Microweber** menyediakan proses design yang fleksibel dengan fitur *Drag and Drop* tanpa batasan, sehingga pengguna bebas mengkreasikan tampilan websitenya. Sedangkan **Prestashop** hanya menyediakan fitur design berupa penggantian template dan logo, adapun template yang tersedia tidak gratis.
-- Modul atau plugin yang tersedia pada **Prestashop** jauh lebih banyak dibandingkan pada **Microweber**.
-- **Prestashop** memiliki pengguna yang jauh lebih banyak daripada **Microweber** yang aktif pada forum-forum diskusi untuk membantu pengguna pemula.
-- **Microweber** lebih ringan daripada **Prestashop** karena modulnya yang sedikit.
-- Proses instalasi **Prestashop** lebih mudah karena berbasis PHP saja, sedangkan **Microweber** menggunakan framework laravel sehingga proses instalasi lebih sulit, terutama dalam hal *dependency*.
+Drupal sering dibandingkan dengan CMS populer dan gratis lainnya seperti [Wordpress](https://wordpress.com/). Namun, Wordpress tetap lebih populer dibandingkan dengan Drupal. Berikut adalah perbandingan Drupal dan Wordpress.
+- Drupal lebih kompleks dan memiliki fungsi yang lebih banyak dan advanced dibandingkan Wordpress. Namun, dengan fitur Drupal yang banyak dapat membuat user kebingungan dan terganggu. Sehingga terbuatlah [“learning curve”](https://en.wikipedia.org/wiki/Learning_curve) namun pada akhirnya user yang telah ahli dapat memaksimalkan potensi Drupal.
+- Pada Wordpress, plugins lebih mudah di manage.
+- Karena Wordpress lebih didesain sebagai blogging platform, sehingga kemampuannya dengan konten sangat besar tidak sekuat Drupal.
+- Drupal sulit untuk dipelajari, Wordpress sangat mudah untuk dipelajari
+- Drupal memiliki security yang kuat, sedangkan Wordpress bergantung dengan plugin untuk memiliki security yang kuat
 
 
 
@@ -149,3 +149,4 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki
 3. [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - github
 4. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
 5. [Drupal - CMS review, advantages and disadvantages](http://whichcmstochoose.com/drupal.html) - whichcmstochoose
+6. [5 Reasons to use Drupal vs Wordpress](https://thoughts.duoconsulting.com/blog/5-reasons-to-use-drupal-vs.-wordpress) - thoughts.duoconsulting
