@@ -69,6 +69,7 @@
 [`^ kembali ke atas ^`](#)
 
 ![adm menu](https://cdn-images-1.medium.com/max/880/1*aQY10wBwqRk-z8fD7Mx0Yg.png)
+
 Pada halaman drupal terdapat **Administrative Menu**, di menu tersebut kita dapat melakukan konfigurasi umum seperti : 
 
 - Meng edit informasi dasar situs pada menu `Configuration`.
@@ -77,9 +78,9 @@ Pada halaman drupal terdapat **Administrative Menu**, di menu tersebut kita dapa
 
 - Meng install atau uninstall sebuah module pada menu `Extends`.
 
-    ![modul](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/9.PNG)
-    
     Pada menu **Extends**, ditampilkan semua module yang tersedia di situs tersebut. Install module dilakukan dengan cara mengisi *check box* terhadap module yang ingin di install. Sama halnya dengan meng-uninstall module.
+    
+    ![modul](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/9.PNG)
 
 - Mengkonfigurasi pengaturan akun User pada menu `Configuration`.
     
