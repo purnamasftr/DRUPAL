@@ -87,6 +87,7 @@
    - Lanjutkan proses instalasi
       ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album5.jpg)
       
+      
    - Lalu kita atur nama Website beserta email yang akan digunakan website tersebut. Disini kita juga membuat akun Administrator yang       akan kita gunakan untuk login pertama kali. Jika sudah pilih **Save and continue**.
     ![6](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/6.png)
 
@@ -145,17 +146,21 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 Pertama-tama kita memasuki laman dengan login dengan akun **Administrator** yang sebelumnya kita buat di laman konfigurasi saat instalasi Drupal pertama kali. Jika ingin Create User, akun baru harus diverifikasi oleh Administrator dan terdaftar sebagai pengguna **Authenticated User**
 ![18](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/7df08079c1cb959810f8c1eedf2118f38b0da247/18.PNG)
 
-Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
+Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal** :
 
 #### Menambahkan Konten
 1. Setelah login, kita dapat menambahkan konten yang nantinya akan muncul di laman utama Drupal. Fitur ini bernama **Add content** dan  terletak di kotak **Tools** di pojok kiri bawah.
 ![19](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/7df08079c1cb959810f8c1eedf2118f38b0da247/19.PNG)
+
 2. Kita akan dialihkan ke menu utama Content. Disini kita dapat memilih tombol **Add content** untuk menambahkan konten.
 ![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/3.PNG)
+
 3. Kita akan diminta untuk memilih jenis konten yang akan kita buat.
 ![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/4.PNG)
+
 4. Selanjutnya, kita bisa menuliskan konten yang ingin kita buat. Sesudahnya pilih tombol **Save** untuk menyimpan konten. Jika ingin melihat tampilan konten di laman utama sebelum disimpan, kita dapat memilih tombol **Preview**. Di sebelah kanan laman ada beberapa peraturan yang dapat kita tentukan untuk konten kita.
 ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/5.png)
+
 5. Konten terunggah dan ditampilkan di laman utama Drupal.
 ![6](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/6.png)
 
@@ -164,12 +169,12 @@ Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di database akun Drupal kita. 
 1. Terdapat tombol **Add user** untuk menambahkan user secara manual. Kita juga dapat mencari user berdasarkan username dan email.
    ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
-2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi: 
+2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi : 
     - **Add the Administrator role to the selected user(s)** : Kita dapat menambahkan peran sebagai Administrator untuk user yang               dipilih
     - **Block the selected user(s)** : Blokir user yang dipilih
     - **Cancel the selected user account(s)** : Membatalkan akun user yang dipilih
     - **Remove the Administrator role to the selected user(s)** : Menghapus peran Administrator dari user yg dipilih
-    - **Unblock the selected user(s)** : Btalkan blokir user yang dipilih
+    - **Unblock the selected user(s)** : Batalkan blokir user yang dipilih
     ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
 3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
 ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
