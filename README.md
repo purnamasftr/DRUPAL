@@ -109,40 +109,7 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 [`^ kembali ke atas ^`](#)
 
 Cara pemakaian **CMS Drupal** dapat dilihat dengan mengikuti langkah berikut:
-1. Extract/copy file/folder CMS Drupal ke C:\xampp\htdocs\
 
-2. Buka web browser dan masukan alamat/path folder drupal pada address bar localhost misal http://localhost/drupal7
-
-3. Maka nanti Anda akan dihadapkan pada jendela instalasi CMS Drupal seperti berikut
-
-    ![instalasi](https://1.bp.blogspot.com/-4A_-Vi6XAb4/Vlk4t1x54LI/AAAAAAAACQE/TSddSAJ91wc/s1600/drupal01.PNG)
-
-4. Pilih Standard. Klik Save and Continue
-
-5. Pada jendela Choose language. Klik Save And continue 
-
-    ![language](https://4.bp.blogspot.com/-YL5rINMIRNQ/Vlk4tt1RJ5I/AAAAAAAACQQ/dna0getcGBE/s1600/drupal02.PNG)
-
-6. Kemudian atur pada jendela “verify requirements” konfigurasi akses ke atabasenya. Misal nama databasenya adalah “drupal”. Untuk database sernamenya secara default adalah “root” dan Database password dikosongkan saja
-
-    ![verify](https://2.bp.blogspot.com/-ut22AJwnxF4/Vlk4tq62ypI/AAAAAAAACQo/HjHTElPNhBk/s1600/drupal03.PNG)
-
-7. Bila sudah selesai. Klik Save and Continue 
-
-8. Selanjutnya tunggu sampai proses instalasi drupal selesai 
-
-    ![install](https://4.bp.blogspot.com/--TsCmmsS1nM/Vlk4uUIrMCI/AAAAAAAACQs/QI8dzswVyw4/s1600/drupal04.PNG)
-
-9. Pada bagian jendela “configure site” Anda mengisi kolom site name dengan nma situs Anda. Silahkan juga atur bagian site maintenance accountnya dengan mengisi username dan password sesuai keinginan Anda. Jangan upa juga sting zona waktunya. Bila sudah selesai Klik Save and continue 
-
-    ![configure](https://2.bp.blogspot.com/-GDQuJPoi2io/Vlk4uX4qqxI/AAAAAAAACQk/PxJht1RXYhk/s1600/drupal05.PNG)
-    
-10. Proses instalasi selesai. Klik "Visit your new site site" untuk melihat tampilan dari website yang telah Anda buat
-
-    ![visit](https://2.bp.blogspot.com/-WoUdhMrbZkw/Vlk4u8MfxwI/AAAAAAAACQ0/32ChhAKTT4s/s1600/drupal07.PNG)
-    
-11. Website telah selesai.
-    ![done](https://1.bp.blogspot.com/-9O2hBWTto7I/Vlk4vMvikgI/AAAAAAAACQ4/455koz9903I/s1600/drupal08.PNG)
 
 
 
