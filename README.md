@@ -148,6 +148,7 @@ Cara pemakaian **CMS Drupal** dapat dilihat dengan mengikuti langkah berikut:
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
+Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan website. Drupl menggunakan bahasa pemrograman PHP...
 
 **Prestashop** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. Sebagai salah satu CMS yang paling banyak digunakan di dunia, aplikasi ini menawarkan berbagai kelebihan, diantaranya :
 - Aplikasi memiliki panel administrasinya mudah digunakan dan fleksibel, sehingga dapat disesuaikan dengan kebutuhan.
