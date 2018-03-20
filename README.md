@@ -149,9 +149,9 @@ Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 1. Setelah login, kita dapat menambahkan konten yang nantinya akan muncul di laman utama Drupal. Fitur ini bernama **Add content** dan  terletak di kotak **Tools** di pojok kiri bawah.
 ![19](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/7df08079c1cb959810f8c1eedf2118f38b0da247/19.PNG)
 2. Kita akan dialihkan ke menu utama Content. Disini kita dapat memilih tombol **Add content** untuk menambahkan konten.
-![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/3.png)
+![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/3.PNG)
 3. Kita akan diminta untuk memilih jenis konten yang akan kita buat.
-![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/4.png)
+![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/4.PNG)
 4. Selanjutnya, kita bisa menuliskan konten yang ingin kita buat. Sesudahnya pilih tombol **Save** untuk menyimpan konten. Jika ingin melihat tampilan konten di laman utama sebelum disimpan, kita dapat memilih tombol **Preview**. Di sebelah kanan laman ada beberapa peraturan yang dapat kita tentukan untuk konten kita.
 ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/5.png)
 5. Konten terunggah dan ditampilkan di laman utama Drupal.
@@ -172,7 +172,7 @@ Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di dat
 3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
 ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
 4. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
-![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/12.png)
+![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/12.PNG)
 5. Akun tersebut pun terhapus dari database kita.
 ![14](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/14.png)
 6. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
