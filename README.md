@@ -108,10 +108,37 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
-Cara pemakaian **CMS Drupal** dapat dilihat dengan mengikuti langkah berikut:
+Pertama-tama kita memasuki laman dengan login dengan akun **Administrator** yang sebelumnya kita buat di laman konfigurasi saat instalasi Drupal pertama kali. Jika ingin Create User, akun baru harus diverifikasi oleh Administrator dan terdaftar sebagai pengguna **Authenticated User**
 
+Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 
+#### Menambahkan Konten
+1. Setelah login, kita dapat menambahkan konten yang nantinya akan muncul di laman utama Drupal. Fitur ini bernama **Add content** dan  terletak di kotak **Tools** di pojok kiri bawah.
+2. Kita akan dialihkan ke menu utama Content. Disini kita dapat memilih tombol **Add content** untuk menambahkan konten.
+3. Kita akan diminta untuk memilih jenis konten yang akan kita buat.
+4. Selanjutnya, kita bisa menuliskan konten yang ingin kita buat. Sesudahnya pilih tombol **Save** untuk menyimpan konten. Jika ingin melihat tampilan konten di laman utama sebelum disimpan, kita dapat memilih tombol **Preview**. Di sebelah kanan laman ada beberapa peraturan yang dapat kita tentukan untuk konten kita.
+5. Konten terunggah dan ditampilkan di laman utama Drupal.
 
+#### Mengedit daftar pengguna (User)
+
+Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di database akun Drupal kita. 
+1. Terdapat tombol **Add user** untuk menambahkan user secara manual. Kita juga dapat mencari user berdasarkan username dan email.
+2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi: 
+    - **Add the Administrator role to the selected user(s)** : Kita dapat menambahkan peran sebagai Administrator untuk user yang               dipilih
+    - **Block the selected user(s)** : Blokir user yang dipilih
+    - **Cancel the selected user account(s)** : Membatalkan akun user yang dipilih
+    - **Remove the Administrator role to the selected user(s)** : Menghapus peran Administrator dari user yg dipilih
+    - **Unblock the selected user(s)** : Btalkan blokir user yang dipilih
+2. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
+3. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
+4. Akun tersebut pun terhapus dari database kita.
+5. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
+
+#### Melihat Report
+Di menu **Reports**, kita dapat melihat laporan-laporan terkait operasional website kita
+
+#### Help
+Berisi langkah-langkah penggunaan Drupal beserta overview modul-modul yang terdapat dalam Drupal
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
