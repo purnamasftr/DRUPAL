@@ -62,30 +62,59 @@
     $ sudo chown -R www-data:www-data /var/www/html/drupal-8.5.0
 
 8. Buka laman http://localhost:8888/drupal-8.5.0 untuk meneruskan instalasi.
+   - Pilih Bahasa yang akan digunakan
+   
+     ![1](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album1.jpg)
+     
+   
+   - Pilih jenis profil yang ingin digunakan
+
+      ![2](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album2.jpg)
+      
+
+   - Lihat requirements review yang ditampilkan
+
+      ![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album3.jpg)
+      
+
+   - Atur konfigurasi database yang akan dipakai saat menggunakan drupal
+
+      ![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album4.jpg)
+      
+
+   - Lanjutkan proses instalasi
+      ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album5.jpg)
 
 
 
 # Konfigurasi
 [`^ kembali ke atas ^`](#)
 
-- Untuk menentukan konfigurasi umum, kuota upload, dan pemberitahuan, kita dapat membuka submenu **Administration** pada menu **Advanced Parameters** dan mengisi field sesuai kebutuhan. 
+![adm menu](https://cdn-images-1.medium.com/max/880/1*aQY10wBwqRk-z8fD7Mx0Yg.png)
+
+Pada halaman Drupal terdapat **Administrative Menu**, di menu tersebut kita dapat melakukan konfigurasi umum seperti : 
+
+- Meng *edit* informasi dasar situs pada menu `Configuration`.
+
+    ![edit](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/10.png)
+
+- Meng *install* atau *uninstall* sebuah module pada menu `Extends`.
+
+    Pada menu **Extends**, ditampilkan semua module yang tersedia di situs tersebut. Install module dilakukan dengan cara mengisi *check box* terhadap module yang ingin di install. Sama halnya dengan meng-uninstall module.
     
-    ![choose language](https://cdn-images-1.medium.com/max/1000/1*WIsfQ6UmXieMQYB9yEim5g.jpeg)
+    ![modul](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/9.PNG)
 
-    ![choose profile](https://cdn-images-1.medium.com/max/800/1*l-Y6N52rhrTM_V-hR1AE9A.jpeg)
+- Mengkonfigurasi pengaturan akun *User* pada menu `Configuration`.
+    
+    Dilakukan dengan cari pilih menu **Configuration** di *Administrative Menu*, lalu pilih **People** - **Account Setting**.
 
-- Untuk melengkapi aplikasi, kita dapat menambahkan fitur atau modul-modul tertentu pada menu `Modules`.
+    ![setting](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/21.png)
 
-    ![modul](https://cdn-images-1.medium.com/max/800/1*ifdwJlSaIIfYU7hGnKcWMQ.jpeg)
-
-- Untuk memperindah aplikasi, kita dapat mengganti tema aplikasi pada menu `Design`.
-
-    ![design](https://cdn-images-1.medium.com/max/800/1*QBKmVlDbndLBfNAxJyeYgA.jpeg)
-    ![coba](https://cdn-images-1.medium.com/max/880/1*57LPoD2qKTtH4jjjgO72Lw.jpeg)
-    ![coba](https://cdn-images-1.medium.com/max/880/1*TKKkEuw1Clbx9-I31zTifQ.jpeg)
-
-
-
+- Mengubah tampilan pada menu `Appearance`.
+    
+    ![theme](https://raw.githubusercontent.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/master/8.png)
+    
+    
 # Maintenance
 [`^ kembali ke atas ^`](#)
 
@@ -109,53 +138,69 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 [`^ kembali ke atas ^`](#)
 
 Pertama-tama kita memasuki laman dengan login dengan akun **Administrator** yang sebelumnya kita buat di laman konfigurasi saat instalasi Drupal pertama kali. Jika ingin Create User, akun baru harus diverifikasi oleh Administrator dan terdaftar sebagai pengguna **Authenticated User**
+![18](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/18.png)
 
 Berikut adalah ragam fitur yang dapat digunakan di **CMS Drupal**:
 
 #### Menambahkan Konten
 1. Setelah login, kita dapat menambahkan konten yang nantinya akan muncul di laman utama Drupal. Fitur ini bernama **Add content** dan  terletak di kotak **Tools** di pojok kiri bawah.
+![19](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/19.png)
 2. Kita akan dialihkan ke menu utama Content. Disini kita dapat memilih tombol **Add content** untuk menambahkan konten.
+![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/3.png)
 3. Kita akan diminta untuk memilih jenis konten yang akan kita buat.
+![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/4.png)
 4. Selanjutnya, kita bisa menuliskan konten yang ingin kita buat. Sesudahnya pilih tombol **Save** untuk menyimpan konten. Jika ingin melihat tampilan konten di laman utama sebelum disimpan, kita dapat memilih tombol **Preview**. Di sebelah kanan laman ada beberapa peraturan yang dapat kita tentukan untuk konten kita.
+![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/5.png)
 5. Konten terunggah dan ditampilkan di laman utama Drupal.
+![6](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/6.png)
 
 #### Mengedit daftar pengguna (User)
 
 Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di database akun Drupal kita. 
 1. Terdapat tombol **Add user** untuk menambahkan user secara manual. Kita juga dapat mencari user berdasarkan username dan email.
+![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/13.png)
 2. Di bawah tombol tersebut terdapat dropdown **Action**, yang merupakan daftar tindakan yang dapat kita lakukan terhadap user. Terdapat 5 opsi: 
     - **Add the Administrator role to the selected user(s)** : Kita dapat menambahkan peran sebagai Administrator untuk user yang               dipilih
     - **Block the selected user(s)** : Blokir user yang dipilih
     - **Cancel the selected user account(s)** : Membatalkan akun user yang dipilih
     - **Remove the Administrator role to the selected user(s)** : Menghapus peran Administrator dari user yg dipilih
     - **Unblock the selected user(s)** : Btalkan blokir user yang dipilih
-2. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
-3. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
-4. Akun tersebut pun terhapus dari database kita.
-5. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
+    ![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/13.png)
+3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
+![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
+4. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
+![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/12.png)
+5. Akun tersebut pun terhapus dari database kita.
+![14](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/14.png)
+6. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
+![16](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/16.png)
 
 #### Melihat Report
 Di menu **Reports**, kita dapat melihat laporan-laporan terkait operasional website kita
+ ![14](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/14.png)
 
 #### Help
 Berisi langkah-langkah penggunaan Drupal beserta overview modul-modul yang terdapat dalam Drupal
+![15](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/15.png)
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan website. Drupl menggunakan bahasa pemrograman PHP...
 
-**Prestashop** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. Sebagai salah satu CMS yang paling banyak digunakan di dunia, aplikasi ini menawarkan berbagai kelebihan, diantaranya :
-- Aplikasi memiliki panel administrasinya mudah digunakan dan fleksibel, sehingga dapat disesuaikan dengan kebutuhan.
-- Mendukung berbagai layanan pembayaran utama, seperti `PayPal`, `VISA`, `MasterCard`, dan `Maestro`.
-- Diterjemahkan dalam banyak bahasa, termasuk Bahasa Indonesia.
-- Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
-- Memiliki lebih dari tiga ratus fitur untuk memudahkan pengguna.
-- Banyak pengguna yang berkontribusi pada *discussion boards* dan sejenisnya, sehingga masalah yang dihadapi pengguna dapat cepat terselesaikan.
+Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan website. Drupal menggunakan bahasa pemrograman PHP dan opensource dengan lisensi software GPL 2.0. Beberapa aplikasi yang menggunakan drupal dapat dilihat di tautan [ini](https://www.drupal.org/case-studies). 
 
-Tentu saja, sebuah aplikasi pasti memiliki kekurangan. Kekurangan yang dimiliki **Prestashop** antara lain :
-- Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat
-- Penggunaan *resource* memory aplikasi ini cukup besar, terutama ketika menggunakan fitur atau modul yang lengkap.
-- Sebagian besar modul dan tema yang tersedia tidak gratis.
+Sebagai CMS yang cukup populer digunakan, tentu memiliki kelebihan. Beberapa kelebihan CMS Drupal yaitu:
+- Mempunyai banyak fungsi, seperti advanced menu management, polls management, graphics modification tool, users management dll.
+- Mendukung banyak tipe konten, seperti videos, polls, user management, text, blogs, podcasts, statistics, dll
+- Advanced User Management: administrator dapat membuat akun user dan menentukan permission rights.
+- Graphics management: Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
+- Page content management: Dapat mengkategorikan konten dengan alamat URL, paths, dan membuat list.
+- Tersedia banyak plugins, dan dapat membuat plugins sendiri
+- Tersedia documentation, boards, dan chat yang dapat membantu user mencari informasi seputar manajemen dan konfigurasi script
+
+Namun, tetap saja aplikasi ini memiliki beberapa kekurangan, yaitu:
+- Instalasi sulit dan tidak user-friendly
+- Masalah kompatibilitas dengan sistem lama
+- Masalah efisiensi pada website besar (big server load).
 
 Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
 - **Microweber** menyediakan proses design yang fleksibel dengan fitur *Drag and Drop* tanpa batasan, sehingga pengguna bebas mengkreasikan tampilan websitenya. Sedangkan **Prestashop** hanya menyediakan fitur design berupa penggantian template dan logo, adapun template yang tersedia tidak gratis.
@@ -173,3 +218,4 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki
 2. [Instalasi Web Server Virtual](https://github.com/auriza/komdat-lab/blob/master/p01.md) - github
 3. [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - github
 4. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
+5. [Drupal - CMS review, advantages and disadvantages](http://whichcmstochoose.com/drupal.html) - whichcmstochoose
