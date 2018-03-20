@@ -170,13 +170,13 @@ Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di dat
     - **Cancel the selected user account(s)** : Membatalkan akun user yang dipilih
     - **Remove the Administrator role to the selected user(s)** : Menghapus peran Administrator dari user yg dipilih
     - **Unblock the selected user(s)** : Batalkan blokir user yang dipilih
-    ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
+    ![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/13.png)
 3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
 ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
 4. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
 ![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/12.PNG)
 5. Akun tersebut pun terhapus dari database kita.
-![14](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/28d6aae8b3add278c0368ae5366aa4fdcb4f9c02/20.PNG)
+![20](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/28d6aae8b3add278c0368ae5366aa4fdcb4f9c02/20.PNG)
 6. Kita juga dapat merubah data-data user yang kita pilih dengan mengklik opsi **Edit** di kolom user
 ![16](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/16.png)
 
