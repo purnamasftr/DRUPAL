@@ -268,6 +268,6 @@ Drupal sering dibandingkan dengan CMS populer dan gratis lainnya seperti [Wordpr
 4. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
 5. [Drupal - CMS review, advantages and disadvantages](http://whichcmstochoose.com/drupal.html) - whichcmstochoose
 6. [5 Reasons to use Drupal vs Wordpress](https://thoughts.duoconsulting.com/blog/5-reasons-to-use-drupal-vs.-wordpress) - thoughts.duoconsulting
-7. [Persiapan Instalasi] (https://www.drupal.org/docs/user_guide/en/install-prepare.html) - Drupal
-8. [VM Developing Environments] (https://www.drupal.org/docs/develop/local-server-setup/virtual-machine-development-environments) - Drupal
-9. [Create New Account] (https://www.drupal.org/forum/support/installing-drupal/2008-11-16/cant-create-new-account-on-localhost) - Drupal
+7. [Persiapan Instalasi](https://www.drupal.org/docs/user_guide/en/install-prepare.html) - Drupal
+8. [VM Developing Environments](https://www.drupal.org/docs/develop/local-server-setup/virtual-machine-development-environments) - Drupal
+9. [Create New Account](https://www.drupal.org/forum/support/installing-drupal/2008-11-16/cant-create-new-account-on-localhost) - Drupal
