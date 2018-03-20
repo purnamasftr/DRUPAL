@@ -62,6 +62,24 @@
     $ sudo chown -R www-data:www-data /var/www/html/drupal-8.5.0
 
 8. Buka laman http://localhost:8888/drupal-8.5.0 untuk meneruskan instalasi.
+   - Pilih Bahasa yang akan digunakan
+   
+     ![1](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album1.jpg)
+   
+   - Pilih jenis profil yang ingin digunakan
+
+      ![2](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album2.jpg)
+
+   - Lihat requirements review yang ditampilkan
+
+      ![3](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album3.jpg)
+
+   - Atur konfigurasi database yang akan dipakai saat menggunakan drupal
+
+      ![4](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album4.jpg)
+
+   - Lanjutkan proses instalasi
+      ![5](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/album5.jpg)
 
 
 
