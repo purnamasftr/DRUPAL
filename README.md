@@ -174,8 +174,7 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki
 # Referensi
 [`^ kembali ke atas ^`](#)
 
-1. [About Drupal](https://www.drupal.org/) - Drupal
-2. [How to Log Into a VPS with PuTTY on Windows](https://www.digitalocean.com/community/tutorials/how-to-log-into-a-vps-with-putty-windows-users) - DigitalOcean
-3. [How to Install PrestaShop on Ubuntu 16.04](http://idroot.net/linux/install-prestashop-ubuntu-16-04/) - idroot
-4. [One Click Install PrestaShop](https://www.prestashop.com/blog/en/how-to-install-prestashop/) - PrestaShop
-5. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
+1. [Drupal](https://www.drupal.org/) - Drupal
+2. [Instalasi Web Server Virtual](https://github.com/auriza/komdat-lab/blob/master/p01.md) - github
+3. [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - github
+4. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
