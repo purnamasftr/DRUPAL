@@ -137,6 +137,22 @@ Ketika kita ingin memodifikasi toko yang sudah terinstall, kita mungkin tidak in
 7. Klik tombol **Save** untuk menyimpan perubahan.
 
 
+# Otomatisasi
+[`^ kembali ke atas ^`](#)
+
+Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Drupal**. Berikut langkah-lankah untuk melakukannya :
+1. kita perlu mengunjungi *web-hosting provider* yang menyediakan *script* instalasi **Drupal** otomatis, seperti [SimpleScripts](https://www.simplescripts.com/script_details/install:Drupal), [Installatron](https://installatron.com/drupal), atau [Softaculous](http://www.softaculous.com/apps/cms/Drupal).
+2. Sebagai contoh, kita akan menggunakan layanan dari [Installatron](https://installatron.com/drupal). Kunjungi link tersebut lalu klik tombol **Install this Application**.
+
+    ![Installatron](https://4.bp.blogspot.com/-PGjmovGOoOc/WNgQDHbE1RI/AAAAAAAAGk0/90dTTmH15cY6WSWqr8UU8BPETQs4KyxnACLcB/s1600/Screenshot_8.jpg)
+
+3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install**.
+
+    ![form](https://4.bp.blogspot.com/-5UwbsHAaBe0/WNgQDDjFdhI/AAAAAAAAGk4/coOLiqqP2DcVxq-hHwFa9cVW3P_t6p1tQCLcB/s1600/ss2.png)
+
+4. Tunggu hingga proses instalasi selesai.
+
+
 # Cara Pemakaian
 [`^ kembali ke atas ^`](#)
 
