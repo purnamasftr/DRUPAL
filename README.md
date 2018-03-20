@@ -115,20 +115,22 @@ Cara pemakaian **CMS Drupal** dapat dilihat dengan mengikuti langkah berikut:
 
 # Pembahasan
 [`^ kembali ke atas ^`](#)
-Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan website. Drupl menggunakan bahasa pemrograman PHP...
 
-**Prestashop** ditulis dalam bahasa pemrograman `PHP` yang support untuk penggunaan MySQL. Sebagai salah satu CMS yang paling banyak digunakan di dunia, aplikasi ini menawarkan berbagai kelebihan, diantaranya :
-- Aplikasi memiliki panel administrasinya mudah digunakan dan fleksibel, sehingga dapat disesuaikan dengan kebutuhan.
-- Mendukung berbagai layanan pembayaran utama, seperti `PayPal`, `VISA`, `MasterCard`, dan `Maestro`.
-- Diterjemahkan dalam banyak bahasa, termasuk Bahasa Indonesia.
-- Memiliki desain yang *responsive*, sehingga dapat dibuka menggunakan *device* apapun.
-- Memiliki lebih dari tiga ratus fitur untuk memudahkan pengguna.
-- Banyak pengguna yang berkontribusi pada *discussion boards* dan sejenisnya, sehingga masalah yang dihadapi pengguna dapat cepat terselesaikan.
+Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan website. Drupal menggunakan bahasa pemrograman PHP dan opensource dengan lisensi software GPL 2.0. Beberapa aplikasi yang menggunakan drupal dapat dilihat di tautan [ini](https://www.drupal.org/case-studies). 
 
-Tentu saja, sebuah aplikasi pasti memiliki kekurangan. Kekurangan yang dimiliki **Prestashop** antara lain :
-- Penggunaan fitur atau modul yang lengkap menyebakan proses loading dari aplikasi ini menjadi sangat lambat
-- Penggunaan *resource* memory aplikasi ini cukup besar, terutama ketika menggunakan fitur atau modul yang lengkap.
-- Sebagian besar modul dan tema yang tersedia tidak gratis.
+Sebagai CMS yang cukup populer digunakan, tentu memiliki kelebihan. Beberapa kelebihan CMS Drupal yaitu:
+- Mempunyai banyak fungsi, seperti advanced menu management, polls management, graphics modification tool, users management dll.
+- Mendukung banyak tipe konten, seperti videos, polls, user management, text, blogs, podcasts, statistics, dll
+- Advanced User Management: administrator dapat membuat akun user dan menentukan permission rights.
+- Graphics management: Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
+- Page content management: Dapat mengkategorikan konten dengan alamat URL, paths, dan membuat list.
+- Tersedia banyak plugins, dan dapat membuat plugins sendiri
+- Tersedia documentation, boards, dan chat yang dapat membantu user mencari informasi seputar manajemen dan konfigurasi script
+
+Namun, tetap saja aplikasi ini memiliki beberapa kekurangan, yaitu:
+- Instalasi sulit dan tidak user-friendly
+- Masalah kompatibilitas dengan sistem lama
+- Masalah efisiensi pada website besar (big server load).
 
 Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki beberapa keunggulan dan kelemahan. Berikut adalah beberapa perbandingan antara kedua CMS ini :
 - **Microweber** menyediakan proses design yang fleksibel dengan fitur *Drag and Drop* tanpa batasan, sehingga pengguna bebas mengkreasikan tampilan websitenya. Sedangkan **Prestashop** hanya menyediakan fitur design berupa penggantian template dan logo, adapun template yang tersedia tidak gratis.
@@ -146,3 +148,4 @@ Jika dibandingkan dengan CMS sejenisnya seperti **Microweber**, CMS ini memiliki
 2. [Instalasi Web Server Virtual](https://github.com/auriza/komdat-lab/blob/master/p01.md) - github
 3. [Awesome Self-hosted](https://github.com/Kickball/awesome-selfhosted) - github
 4. [Cara Mudah Membuat Website Menggunakan Drupal](https://www.root93.co.id/2015/11/cara-mudah-membuat-website-menggunakan-drupal.html) - root93
+5. [Drupal - CMS review, advantages and disadvantages](http://whichcmstochoose.com/drupal.html) - whichcmstochoose
