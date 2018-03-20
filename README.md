@@ -15,9 +15,11 @@
 [`^ kembali ke atas ^`](#)
 
 #### Kebutuhan Sistem :
-- Linux
-- Windows
+- Linux, Windows
 - Virtual box
+- PHP 5.5.9 or higher
+- Apache
+- MySQL 5.5.3 or higher
 
 #### Proses Instalasi :
 1. Install SSH pada linux menggunakan terminal dengan cara berikut.
