@@ -182,11 +182,11 @@ Sebagai Administrator, kita dapat mengedit daftar pengguna yang terdaftar di dat
     
     ![13](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/13.png)
     
-3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user melatiapw. Pilih Action **Cancel the selected user account(s)**.
+3. Setelah memilih Action yang akan diterapkan, pilih user, lalu klik tombol **Apply to selected items**. Sebagai contoh, kita akan hapus akun user *melatiapw*. Pilih Action **Cancel the selected user account(s)**.
 
 ![11](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/master/11.png)
 
-4. Dalam Action tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
+4. Dalam *Action* tersebut, ada beberapa opsi yang bisa kita pilih terkait pembatalan akun. Pilih opsi **Delete the account and its content** untuk menghapus akun lalu klik **Cancel accounts**
 
 ![12](https://github.com/purnamasftr/KOMDAT-JARKOM-DRUPAL/blob/96401829e03b645608f1c58063ede9d6269a6a52/12.PNG)
 
@@ -211,28 +211,29 @@ Berisi langkah-langkah penggunaan Drupal beserta *overview* modul-modul yang ter
 # Pembahasan
 [`^ kembali ke atas ^`](#)
 
-Drupal merupakan website CMS (Content Management Software) yang sering dipakai untuk digunakan membuat aplikasi dan *website*. Drupal menggunakan bahasa pemrograman PHP dan opensource dengan lisensi software GPL 2.0. Beberapa aplikasi yang menggunakan Drupal dapat dilihat di tautan [ini](https://www.drupal.org/case-studies). 
+Drupal merupakan *website* CMS (*Content Management Software*) yang sering dipakai untuk digunakan membuat aplikasi dan *website*. Drupal menggunakan bahasa pemrograman PHP dan opensource dengan lisensi software GPL 2.0. Beberapa aplikasi yang menggunakan Drupal dapat dilihat di tautan [ini](https://www.drupal.org/case-studies). 
 
 Sebagai CMS yang cukup populer digunakan, tentu memiliki kelebihan. Beberapa kelebihan CMS Drupal yaitu:
 - Mempunyai banyak fungsi, seperti *advanced menu management, polls management, graphics modification tool, users management*, dll.
 - Mendukung banyak tipe konten, seperti *videos, polls, user management, text, blogs, podcasts, statistics*, dll.
 - *Advanced User Management* : administrator dapat membuat akun user dan menentukan *permission rights*.
-- *Graphics management*: Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
+- *Graphics management* : Tersedia templates dan theme, dan juga dapat membuat konfigurasi halaman sendiri. 
 - Page content management : Dapat mengkategorikan konten dengan alamat URL, paths, dan membuat list.
 - Tersedia banyak plugins, dan dapat membuat plugins sendiri.
-- Tersedia *documentation, boards*, dan *chat* yang dapat membantu user mencari informasi seputar manajemen dan konfigurasi script.
+- Tersedia *documentation, boards*, dan *chat* yang dapat membantu user mencari informasi seputar manajemen dan konfigurasi *script*.
 
 Namun, tetap saja aplikasi ini memiliki beberapa kekurangan, yaitu :
-- Instalasi sulit dan tidak *user-friendly*
-- Masalah kompatibilitas dengan sistem lama
+- Instalasi sulit dan tidak *user-friendly*.
+- Masalah kompatibilitas dengan sistem lama.
 - Masalah efisiensi pada website besar (*big server load*).
 
-Drupal sering dibandingkan dengan CMS populer dan gratis lainnya seperti [Wordpress](https://wordpress.com/). Namun, Wordpress tetap lebih populer dibandingkan dengan Drupal. Berikut adalah perbandingan Drupal dan Wordpress.
+Drupal sering dibandingkan dengan CMS populer dan gratis lainnya seperti [Wordpress](https://wordpress.com/). Namun, Wordpress tetap lebih populer dibandingkan dengan Drupal. Berikut adalah perbandingan Drupal dan Wordpress :
+
 - Drupal lebih kompleks dan memiliki fungsi yang lebih banyak dan advanced dibandingkan Wordpress. Namun, dengan fitur Drupal yang banyak dapat membuat user kebingungan dan terganggu. Sehingga terbuatlah [“learning curve”](https://en.wikipedia.org/wiki/Learning_curve) namun pada akhirnya user yang telah ahli dapat memaksimalkan potensi Drupal.
-- Pada Wordpress, plugins lebih mudah di manage.
+- Pada Wordpress, plugins lebih mudah di *manage*.
 - Karena Wordpress lebih didesain sebagai blogging platform, sehingga kemampuannya dengan konten sangat besar tidak sekuat Drupal.
 - Drupal sulit untuk dipelajari, Wordpress sangat mudah untuk dipelajari
-- Drupal memiliki security yang kuat, sedangkan Wordpress bergantung dengan plugin untuk memiliki security yang kuat
+- Drupal memiliki security yang kuat, sedangkan Wordpress bergantung dengan plugin untuk memiliki *security* yang kuat
 
 
 
