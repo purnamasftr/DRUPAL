@@ -6,7 +6,7 @@
 # Sekilas Tentang
 [`^ kembali ke atas ^`](#)
 
-**Drupal** adalah sebuah perangkat lunak sistem manajemen konten yang bebas dan terbuka yang di distribusikan di bawah lisensi GPL, pengembangan dan perawatannya dilakukan oleh ribuan komunitas pengguna dan pengembang di seluruh dunia. Dibuat dengan bahasa pemrograman PHP, Drupal dapat dipasang pada beberapa jenis database seperti MySQL, PostgreSQL, SQLite,MariaDB dan juga MsSQL. Web server yang mendukung diantaranya Apache, Nginx, IIS yang berjalan pada sistem operasi Cross-platform seperti Microsoft Windows, Mac OS X, Linux dan FreeBSD. Drupal dapat diunduh secara bebas dan dapat digunakan secara bebas, sehingga memungkinkan setiap orang baik secara individu maupun komunitas untuk mempublikasi, mengatur, mengelola dan mengorganisir berbagai jenis dari isi/konten pada website. 
+**Drupal** adalah sebuah perangkat lunak sistem manajemen konten yang bebas dan terbuka yang di distribusikan di bawah lisensi GPL, pengembangan dan perawatannya dilakukan oleh ribuan komunitas pengguna dan pengembang di seluruh dunia. Dibuat dengan bahasa pemrograman PHP, Drupal dapat dipasang pada beberapa jenis database seperti MySQL, PostgreSQL, SQLite, MariaDB, dan MsSQL. Web server yang mendukung diantaranya Apache, Nginx, IIS yang berjalan pada sistem operasi Cross-platform seperti Microsoft Windows, Mac OS X, Linux dan FreeBSD. Drupal dapat diunduh dan digunakan secara bebas, sehingga memungkinkan setiap orang baik secara individu maupun komunitas untuk mempublikasi, mengatur, mengelola dan mengorganisir berbagai jenis dari isi atau konten pada *website*. 
 
 
 
@@ -140,14 +140,21 @@ Langkah yang dilakukan adalah :
 
 Cara alternatif lain instalasi **Drupal** yang lebih mudah adalah dengan menggunakan layanan yang tersedia pada *web-hosting provider*. Dengan layanan tersebut kita hanya perlu satu kali klik untuk meng-install **Drupal**. Berikut langkah-langkah untuk melakukannya :
 1. Kunjungi *web-hosting provider* yang menyediakan *script* instalasi **Drupal** otomatis, seperti:
+
     - [SimpleScripts](https://www.simplescripts.com/script_details/install:Drupal)
+    
     ![26](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/26.PNG)
+    
     - [Installatron](https://installatron.com/drupal)
+    
     ![25](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/25.PNG)
+    
     - [Softaculous](http://www.softaculous.com/apps/cms/Drupal).
+    
     ![24](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/24.PNG)
     
 2. Sebagai contoh, kita akan menggunakan layanan dari [Installatron](https://installatron.com/drupal). Kunjungi link tersebut lalu klik tombol **Install this Application**.
+
 ![25](https://github.com/purnamasftr/DRUPAL/blob/8beffb2eec8ae47b38660c9d0067e1db0988cd9a/25.PNG)
 
 3. Isi semua informasi yang dibutuhkan, lalu klik tombol **Install**.
@@ -251,11 +258,11 @@ Namun, tetap saja aplikasi ini memiliki beberapa kekurangan, yaitu :
 
 Drupal sering dibandingkan dengan CMS populer dan gratis lainnya seperti [Wordpress](https://wordpress.com/). Namun, Wordpress tetap lebih populer dibandingkan dengan Drupal. Berikut adalah perbandingan Drupal dan Wordpress :
 
-- Drupal lebih kompleks dan memiliki fungsi yang lebih banyak dan advanced dibandingkan Wordpress. Namun, dengan fitur Drupal yang banyak dapat membuat user kebingungan dan terganggu. Sehingga terbuatlah [“learning curve”](https://en.wikipedia.org/wiki/Learning_curve) namun pada akhirnya user yang telah ahli dapat memaksimalkan potensi Drupal.
+- Drupal lebih kompleks dan memiliki fungsi yang lebih banyak dan *advanced* dibandingkan Wordpress. Namun, dengan fitur Drupal yang banyak dapat membuat user kebingungan dan terganggu. Sehingga terbuatlah [“learning curve”](https://en.wikipedia.org/wiki/Learning_curve) namun pada akhirnya user yang telah ahli dapat memaksimalkan potensi Drupal.
 - Pada Wordpress, plugins lebih mudah di *manage*.
-- Karena Wordpress lebih didesain sebagai blogging platform, sehingga kemampuannya dengan konten sangat besar tidak sekuat Drupal.
-- Drupal sulit untuk dipelajari, Wordpress sangat mudah untuk dipelajari
-- Drupal memiliki security yang kuat, sedangkan Wordpress bergantung dengan plugin untuk memiliki *security* yang kuat
+- Karena Wordpress lebih didesain sebagai *blogging platform*, sehingga kemampuannya dengan konten sangat besar tidak sekuat Drupal.
+- Drupal sulit untuk dipelajari, Wordpress sangat mudah untuk dipelajari.
+- Drupal memiliki security yang kuat, sedangkan Wordpress bergantung dengan plugin untuk memiliki *security* yang kuat.
 
 
 
